@@ -56,13 +56,6 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 | **TE** | 0.989 | 3.3 | Excellent | Elite tier highly reliable |
 | **WR** | 0.977 | 8.2 | Very Good | Highest volatility, need depth |
 
-## 🏁 2024 Season Projections
-
-**Elite Fantasy Performance Leaders:**
-- **QB1:** Lamar Jackson - 411.5 points (24.2 per game)
-- **RB1:** Saquon Barkley - 310.6 points (18.3 per game)  
-- **WR1:** Justin Jefferson - 205.7 points (12.1 per game)
-- **TE1:** George Kittle - 149.0 points (8.8 per game)
 
 ## 🔬 Technical Methodology
 
