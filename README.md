@@ -47,7 +47,7 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 **Purpose**: Reliability vs. volatility assessment  
 **Business Value**: Risk-adjusted player evaluation
 
-## 📊 Model Performance Summary
+##  Model Performance Summary
 
 | **Position** | **R² Score** | **RMSE** | **Prediction Quality** | **Strategic Implication** |
 |-------------|-------------|----------|------------------------|---------------------------|
@@ -57,7 +57,7 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 | **WR** | 0.977 | 8.2 | Very Good | Highest volatility, need depth |
 
 
-## 🔬 Technical Methodology
+##  Technical Methodology
 
 ### Data Science Workflow:
 1. **Data Collection** → **ETL Pipeline** → **Feature Engineering** → **Model Training** → **Validation** → **Business Insights**
@@ -74,7 +74,7 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 - **Code Quality**: Modular, reusable functions with error handling  
 - **Documentation**: Clear explanations and business context  
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 ### Draft Strategy Recommendations:
 1. **Secure Elite QB** - Provides massive scoring advantage with high predictability
@@ -88,13 +88,13 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 - **Player Evaluation**: Frameworks applicable to NFL front office analytics
 - **Media Content**: Insights generation for sports journalism and broadcasting
 
-## 📁 Files Structure
+##  Files Structure
 
 - `NFLDATAPROJOFFICAL (2).ipynb` - Main analysis notebook with complete methodology
 - `README.md` - Project documentation and findings
 - `requirements.txt` - Required Python packages
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Install required dependencies:
    ```bash
@@ -103,7 +103,7 @@ CPS = (1 - MVS) × (1 - |SOS - median_SOS| / std_SOS)
 2. Open the Jupyter notebook
 3. Run all cells to reproduce the analysis
 
-## 🎖️ Professional Impact
+##  Professional Impact
 
 This NFL fantasy prediction system showcases **production-ready machine learning** capabilities with **immediate business value**. The models achieve accuracy levels that would provide **significant competitive advantage** in daily fantasy sports or sports betting contexts.
 
@@ -113,7 +113,7 @@ This NFL fantasy prediction system showcases **production-ready machine learning
 - Model performance optimization achieving 97%+ accuracy across multiple problem domains
 - Statistical analysis and business intelligence generation from complex datasets
 
-## 📈 Portfolio Highlights
+##  Portfolio Highlights
 
 This project demonstrates proficiency in:
 - **Python/Pandas**: Advanced data manipulation and analysis
